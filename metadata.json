@@ -1,0 +1,5 @@
+{
+  "name": "Kinetic",
+  "description": "Canada's premier collective of high-intensity studios, underground boxes, and elite wellness spaces.",
+  "requestFramePermissions": ["geolocation"]
+}
